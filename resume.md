@@ -8,7 +8,7 @@ Full-stack software developer, Bachelor of Science in Political Science, with a 
 
 **Seattle, WA | 417-844-1917 | cara.ottmar@gmail.com**
 
-**[https://www.linkedin.com/in/cara-ottmar/](https://www.linkedin.com/in/cara-ottmar) | [github.com/cottmar](github.com/cottmar)**
+**[https://www.linkedin.com/in/cara-ottmar/](https://www.linkedin.com/in/cara-ottmar) | [https://github.com/cottmar](https://github.com/cottmar)**
 
 ***
 
@@ -18,6 +18,11 @@ Full-stack software developer, Bachelor of Science in Political Science, with a 
 ###### Frontend website advertising land that is for sale by owner. Utilizes the Google Maps API.
 ###### [https://github.com/cottmar/simpleReactApp](https://github.com/cottmar/simpleReactApp)
 * Developed using ReactJS, CSS
+* **Roles**: Frontend developer working with a client, designing a web advertisement for land for sale
+
+#### Finders-Keepers | June 2018 
+###### Full-Stack real-time multiplayer game where users compete against the clock to find the most stars. 
+###### [https://github.com/spyosaurus](https://github.com/spyosaurus) | [https://finders-keepers-frontend.herokuapp.com/](https://finders-keepers-frontend.herokuapp.com/)
 ** Roles **: Frontend developer working with a client, designing a web advertisement for land for sale, with no images and no address.
 
 #### Finders-Keepers | June 2018 
@@ -28,6 +33,16 @@ Full-stack software developer, Bachelor of Science in Political Science, with a 
 
 #### SOS-SMS | May 2018
 ###### Backend build leveraging the Twilio API to easily enable an application to instantly notify developers of critical errors via SMS messages. 
+###### Created an open source NPM package | [https://www.npmjs.com/package/sos-sms](https://www.npmjs.com/package/sos-sms)
+###### [https://github.com/401-Team-Awesome/sos-sms-server](https://github.com/401-Team-Awesome/sos-sms-server) 
+* Developed using Javascript, MongoDB, ExpressJS, TDD with Travis CI
+* **Roles**: Backend developer, worked on routes, testing, project management, and writing documentation 
+
+#### Plenty-of-Dogs | May 2018
+###### Full-Stack application designed to help you select a breed of dog, matching you with available adoptable rescue dogs in the Seattle, WA area. 
+###### [https://github.com/plenty-of-dogs](https://github.com/plenty-of-dogs) || [http://plenty-of-dogs.site/](http://plenty-of-dogs.site/)
+* Developed using Javascript, CSS, Dynamic Mobile-First approach, using Petfinder and dog.ceo APIs. 
+* **Roles**: Full-Stack developer, worked on concept, hitting APIs, styling, and project management.
 ###### Created an open source NPM package | [npmjs.com/package/sos-sms](npmjs.com/package/sos-sms)
 ###### [https://github.com/401-Team-Awesome/sos-sms-server](https://github.com/401-Team-Awesome/sos-sms-server) 
 * Developed using Javascript, MongoDB, ExpressJS, TDD with Travis CI
@@ -35,7 +50,7 @@ Full-stack software developer, Bachelor of Science in Political Science, with a 
 
 #### Plenty-of-Dogs | May 2018
 ###### Full-Stack application designed to help you select a breed of dog, matching you with available adoptable rescue dogs in the Seattle, WA area. 
-###### [https://github.com/plenty-of-dogs](https://github.com/plenty-of-dogs)
+###### [https://github.com/plenty-of-dogs](https://github.com/plenty-of-dogs) | [http://plenty-of-dogs.site/](http://plenty-of-dogs.site/)
 * Developed using Javascript, CSS, Dynamic Mobile-First approach, using Petfinder and Dog.ceo APIs. 
 * **Roles**: Full-Stack developer, worked on hitting APIs, concept, styling, and project management.
 
@@ -56,7 +71,7 @@ Full-stack software developer, Bachelor of Science in Political Science, with a 
 ### Experience
 #### Code Fellows | Teaching Assistant
 ###### July 2018 - September 2018, Seattle, WA
-* Mentored students, helped in understanding of core concepts and supported them as they worked through lab assignments
+* Mentored students, helped in understanding of core concepts, and supported them as they worked through lab assignments
 * Assessed grades while ensuring students used good coding practices and submitted clean, DRY code
 
 #### Salal Credit Union | Mortgage Processor
