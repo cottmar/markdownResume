@@ -23,11 +23,6 @@ Full-stack software developer, Bachelor of Science in Political Science, with a 
 #### Finders-Keepers | June 2018 
 ###### Full-Stack real-time multiplayer game where users compete against the clock to find the most stars. 
 ###### [https://github.com/spyosaurus](https://github.com/spyosaurus) | [https://finders-keepers-frontend.herokuapp.com/](https://finders-keepers-frontend.herokuapp.com/)
-** Roles **: Frontend developer working with a client, designing a web advertisement for land for sale, with no images and no address.
-
-#### Finders-Keepers | June 2018 
-###### Full-Stack real-time multiplayer game where users compete against the clock to find the most stars. 
-###### [github.com/spyosaurus](github.com/spyosaurus) | [https://finders-keepers-frontend.herokuapp.com/](https://finders-keepers-frontend.herokuapp.com/)
 * Developed using ReactJS, Socket.io, TDD with Travis CI, ExpressJS, MongoDB, Jest, SASS
 * **Roles**: Full-stack developer, worked on UI, styling, testing, project management, and image rendering. 
 
@@ -43,16 +38,6 @@ Full-stack software developer, Bachelor of Science in Political Science, with a 
 ###### [https://github.com/plenty-of-dogs](https://github.com/plenty-of-dogs) || [http://plenty-of-dogs.site/](http://plenty-of-dogs.site/)
 * Developed using Javascript, CSS, Dynamic Mobile-First approach, using Petfinder and dog.ceo APIs. 
 * **Roles**: Full-Stack developer, worked on concept, hitting APIs, styling, and project management.
-###### Created an open source NPM package | [npmjs.com/package/sos-sms](npmjs.com/package/sos-sms)
-###### [https://github.com/401-Team-Awesome/sos-sms-server](https://github.com/401-Team-Awesome/sos-sms-server) 
-* Developed using Javascript, MongoDB, ExpressJS, TDD with Travis CI
-* **Roles**: Backend developer, worked on Routes, testing, project management, and writing documentation 
-
-#### Plenty-of-Dogs | May 2018
-###### Full-Stack application designed to help you select a breed of dog, matching you with available adoptable rescue dogs in the Seattle, WA area. 
-###### [https://github.com/plenty-of-dogs](https://github.com/plenty-of-dogs) | [http://plenty-of-dogs.site/](http://plenty-of-dogs.site/)
-* Developed using Javascript, CSS, Dynamic Mobile-First approach, using Petfinder and Dog.ceo APIs. 
-* **Roles**: Full-Stack developer, worked on hitting APIs, concept, styling, and project management.
 
 *** 
 
