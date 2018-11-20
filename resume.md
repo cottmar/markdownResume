@@ -14,10 +14,10 @@ Full-stack software developer, Bachelor of Science in Political Science, with a 
 
 ## Projects
 
-#### Working with a client on a For Sale by Owner website | September 2018
+#### Working with a client on a For Sale by Owner website (in-progress) | September 2018
 ###### Frontend website advertising land that is for sale by owner. Utilizes the Google Maps API.
-###### [https://github.com/cottmar/simpleReactApp](https://github.com/cottmar/simpleReactApp)
-* Developed using ReactJS, CSS
+###### [https://github.com/cottmar/straffordLandWebsite](https://github.com/cottmar/straffordLandWebsite) | [https://strafford-acres.herokuapp.com/](https://strafford-acres.herokuapp.com/)
+* Developed using Javascript, ReactJS, CSS
 * **Roles**: Frontend developer working with a client, designing a web advertisement for land for sale
 
 #### Finders-Keepers | June 2018 
