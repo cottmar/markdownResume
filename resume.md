@@ -62,7 +62,7 @@ Full-stack software developer, Bachelor of Science in Political Science, with a 
 ***
 
 ### Experience
-####Cogwheel Clinic for Neurodevelopment | Web Developer Intern
+#### Cogwheel Clinic for Neurodevelopment | Web Developer Intern
 ###### December 2018 - present, Bellevue, WA
 * Frontend Intern responsible for updating and maintaining autism related websites
 * Helping improve accessibility on already established websites
