@@ -2,17 +2,25 @@
 
 # Cara Ottmar
 ## Software Developer
-Full-stack software developer, Bachelor of Science in Political Science, with a passion for collaboration, innovation, and efficiency, using technology to help make the world a better place.
+Full-stack software developer, Bachelor of Science in Political Science, with a passion for working with mission based organizations, collaborating on creating accessible and innovative products that help improve lives.
 
 ***
 
 **Seattle, WA | 417-844-1917 | cara.ottmar@gmail.com**
 
-**[https://www.linkedin.com/in/cara-ottmar/](https://www.linkedin.com/in/cara-ottmar) | [https://github.com/cottmar](https://github.com/cottmar)**
+**[https://www.linkedin.com/in/cara-ottmar/](https://www.linkedin.com/in/cara-ottmar) | [https://github.com/cottmar](https://github.com/cottmar)
+[https://portfolio-clo.herokuapp.com/](https://portfolio-clo.herokuapp.com/)**
 
 ***
 
 ## Projects
+
+#### Therapy Spotter || January 2019 
+##### Frontend work, working on CSS for both desktop and mobile views
+##### [https://www.therapyspotter.com/](https://www.therapyspotter.com/)
+
+* Developed using AngularJS, Typescript, CSS
+* **Roless**: Frontend developer working as an intern for a local non-profit
 
 #### Working with a client on a For Sale by Owner website (in-progress) | September 2018
 ###### Frontend website advertising land that is for sale by owner. Utilizes the Google Maps API.
@@ -54,9 +62,16 @@ Full-stack software developer, Bachelor of Science in Political Science, with a 
 ***
 
 ### Experience
-#### Code Fellows | Teaching Assistant
-###### July 2018 - September 2018, Seattle, WA
-* Mentored students, helped in understanding of core concepts, and supported them as they worked through lab assignments
+####Cogwheel Clinic for Neurodevelopment | Web Developer Intern
+###### December 2018 - present, Bellevue, WA
+* Frontend Intern responsible for updating and maintaining autism related websites
+* Helping improve accessibility on already established websites
+* Added features to websites built with Wordpress, websites built with HTML5/CSS3/Jquery, and updating websites built with AngularJS
+
+
+#### Code Fellows | Lead Teaching Assistant
+###### July 2018 - February 2019, Seattle, WA
+* Lead Teaching Assistant as part of the instructional staff. Mentored students, helped in understanding of core concepts, and provided support as they worked through lab assignments
 * Assessed grades while ensuring students used good coding practices and submitted clean, DRY code
 
 #### Salal Credit Union | Mortgage Processor
@@ -80,15 +95,16 @@ Full-stack software developer, Bachelor of Science in Political Science, with a 
 
 #### Languages:
 * Javascript
+* Typescript
 * HTML5
 * CSS3
 * SCSS
-* SQL
 
 ### Tools:
 * NodeJS
 * ReactJS
 * ReduxJS
+* AngularJS
 * ExpressJS
 * MongoDB
 * Github
@@ -97,6 +113,13 @@ Full-stack software developer, Bachelor of Science in Political Science, with a 
 * PostgreSQL
 * Travis CI
 * Heroku
+* Wordpress
+* Cyberduck
+* Tunnelblick
+* A Small Orange
+* Bluehost
+* Adobe Photoshop
+* Adobe Illustrator
 
 #### Methodolgoies:
 * RESTful APIs
