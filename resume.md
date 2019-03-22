@@ -8,25 +8,25 @@ Full-stack software developer, Bachelor of Science in Political Science, with a 
 
 **Seattle, WA | 417-844-1917 | cara.ottmar@gmail.com**
 
-**[https://www.linkedin.com/in/cara-ottmar/](https://www.linkedin.com/in/cara-ottmar) | [https://github.com/cottmar](https://github.com/cottmar)
-[https://portfolio-clo.herokuapp.com/](https://portfolio-clo.herokuapp.com/)**
+**[https://www.linkedin.com/in/cara-ottmar/](https://www.linkedin.com/in/cara-ottmar) | [https://github.com/cottmar](https://github.com/cottmar) |
+[https://caraottmar.me](https://caraottmar.me)**
 
 ***
 
 ## Projects
 
-#### Therapy Spotter || January 2019 
+#### Therapy Spotter | January 2019 
 ##### Frontend work, working on CSS for both desktop and mobile views
 ##### [https://www.therapyspotter.com/](https://www.therapyspotter.com/)
 
 * Developed using AngularJS, Typescript, CSS
-* **Roless**: Frontend developer working as an intern for a local non-profit
+* **Roles**: Frontend developer working as an intern for a Bellevue non-profit, promoting accessibility for individuals who are autistic or have sensory sensitivities.
 
-#### Working with a client on a For Sale by Owner website (in-progress) | September 2018
+#### Working with a client on a For Sale by Owner website | 2018 - 2019
 ###### Frontend website advertising land that is for sale by owner. Utilizes the Google Maps API.
 ###### [https://github.com/cottmar/straffordLandWebsite](https://github.com/cottmar/straffordLandWebsite) | [https://strafford-acres.herokuapp.com/](https://strafford-acres.herokuapp.com/)
-* Developed using Javascript, ReactJS, CSS
-* **Roles**: Frontend developer working with a client, designing a web advertisement for land for sale
+* Developed using Javascript, ReactJS, JSX, CSS
+* **Roles**: Frontend developer working with a client, designing and building a web advertisement for land for sale
 
 #### Finders-Keepers | June 2018 
 ###### Full-Stack real-time multiplayer game where users compete against the clock to find the most stars. 
@@ -63,11 +63,11 @@ Full-stack software developer, Bachelor of Science in Political Science, with a 
 
 ### Experience
 #### Cogwheel Clinic for Neurodevelopment | Web Developer Intern
-###### December 2018 - present, Bellevue, WA
+###### December 2018 - March 2019, Bellevue, WA
 * Frontend Intern responsible for updating and maintaining autism related websites
 * Helping improve accessibility on already established websites
 * Added features to websites built with Wordpress, websites built with HTML5/CSS3/Jquery, and updating websites built with AngularJS
-
+* Attended meetings regarding the wireframing, feature desires, timelines, and deliverables for new website.
 
 #### Code Fellows | Lead Teaching Assistant
 ###### July 2018 - February 2019, Seattle, WA
@@ -104,9 +104,10 @@ Full-stack software developer, Bachelor of Science in Political Science, with a 
 * NodeJS
 * ReactJS
 * ReduxJS
-* AngularJS
+* Angular
 * ExpressJS
 * MongoDB
+* Jquery
 * Github
 * Git
 * VSCode
